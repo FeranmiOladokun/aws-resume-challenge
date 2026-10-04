@@ -9,7 +9,7 @@ I'm starting with a resume template so I can spend more time on the AWS side: S3
 ## Progress
 
 - [x] Choose a resume template
-- [x]Add my CV content
+- [x] Add my CV content
 - [ ] Host the website with HTTPS and my custom domain
 - [ ] Build and test the visitor counter
 - [ ] Define the infrastructure in Terraform
