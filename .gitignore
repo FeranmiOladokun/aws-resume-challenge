@@ -1,0 +1,36 @@
+# Local dependencies and operating-system files
+node_modules/
+.DS_Store
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+
+# Python local files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Terraform local data and state (commit .terraform.lock.hcl)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+!*.example.tfvars
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Personal planning notes (keep locally)
+/docs/PROJECT_PLAN.md
+/docs/detailed-plans.md
