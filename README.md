@@ -10,13 +10,15 @@ I'm starting with a resume template so I can spend more time on the AWS side: S3
 
 - [x] Choose a resume template
 - [x] Add my CV content
-- [ ] Host the website with HTTPS and my custom domain
+- [x] Host the website with HTTPS and my custom domain
 - [ ] Build and test the visitor counter
 - [ ] Define the infrastructure in Terraform
 - [ ] Automate testing and deployment with GitHub Actions
 - [ ] Add the architecture diagram, write-up, and video walkthrough
 
 I'll keep notes on the decisions I make and the problems I run into. The live website will be linked here once it's deployed.
+
+**The Live website:** [resume.feminfo.xyz](https://resume.feminfo.xyz/)
 
 
 
