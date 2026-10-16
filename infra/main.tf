@@ -81,7 +81,7 @@ resource "aws_lambda_function_url" "myfunc_url" {
 
   cors {
     allow_credentials = true
-    allow_origins     = ["https://www.resume.feminfo.xyz"]
+    allow_origins     = ["https://resume.feminfo.xyz"]
     allow_methods     = ["GET"]
   }
 }
