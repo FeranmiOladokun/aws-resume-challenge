@@ -73,3 +73,16 @@ resource "aws_lambda_function" "mytf_function" {
   runtime       = "python3.14"
 
 }
+
+# Lambda function url
+resource "aws_lambda_function_url" "myfunc_url" {
+  function_name      = aws_lambda_function.mytf_function.function_name
+  authorization_type = "NONE"
+
+  cors {
+    allow_credentials = true
+    allow_origins     = ["https://www.resume.feminfo.xyz"]
+    allow_methods     = ["GET"]
+  }
+}
+
