@@ -7,11 +7,11 @@ I'm starting with a resume template so I can spend more time on the AWS side: S3
 
 ## Progress
 
-- [x] Choose a resume template
-- [x] Add my CV content
-- [x] Host the website with HTTPS and my custom domain
-- [x] Build and test the visitor counter
-- [ ] Define the backend API resources as code using Terraform
+- [✅] Choose a resume template
+- [✅] Add my CV content
+- [✅] Host the website with HTTPS and my custom domain
+- [✅] Build and test the visitor counter
+- [✅] Define the backend API resources as code using Terraform
 - [ ] Automate testing and deployment with GitHub Actions
 - [ ] Add the architecture diagram, write-up, and video walkthrough
 
