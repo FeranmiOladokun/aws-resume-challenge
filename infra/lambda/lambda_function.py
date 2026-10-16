@@ -2,7 +2,7 @@ import json
 import boto3
 
 dynamodb = boto3.resource("dynamodb")
-table = dynamodb.Table("aws-resume")
+table = dynamodb.Table("aws-resume-tf")
 
 
 def lambda_handler(event, context):
