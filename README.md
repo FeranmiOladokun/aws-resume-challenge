@@ -7,16 +7,17 @@ I'm starting with a resume template so I can spend more time on the AWS side: S3
 
 ## Progress
 
- ✅ Choose a resume template
- ✅ Add my CV content
- ✅ Host the website with HTTPS and my custom domain
- ✅ Build and test the visitor counter
- ✅ Define the backend API resources as code using Terraform
- ✅ Automate testing and deployment with GitHub Actions - Frontend
+- ✅ Choose a resume template
+- ✅ Add my CV content
+- ✅ Host the website with HTTPS and my custom domain
+- ✅ Build and test the visitor counter
+- ✅ Define the backend API resources as code using Terraform
+- ✅ Automate testing and deployment with GitHub Actions - Frontend
 - [ ] Automate testing and deployment with GitHub Actions - Backend
 - [ ] Add the architecture diagram, write-up, and video walkthrough
 
 ## Personal goal
+
 After completing the challenge, I want to define the entire architecture in Terraform so I can recreate it from code.
 
 - [ ] Define the entire architecture as code using Terraform
