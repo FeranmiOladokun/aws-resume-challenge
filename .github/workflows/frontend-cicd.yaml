@@ -5,6 +5,13 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "index.html"
+      - "css/**"
+      - "js/**"
+      - "vendor/**"
+      - "LICENSE"
+      - ".github/workflows/frontend-cicd.yaml"
 
 permissions:
   contents: read
