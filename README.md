@@ -13,7 +13,7 @@ I'm starting with a resume template so I can spend more time on the AWS side: S3
 - ✅ Build and test the visitor counter
 - ✅ Define the backend API resources as code using Terraform
 - ✅ Automate testing and deployment with GitHub Actions - Frontend
-- [x] Automate testing and deployment with GitHub Actions - Backend
+- ✅ Automate testing and deployment with GitHub Actions - Backend
 - [ ] Add the architecture diagram, write-up, and video walkthrough
 
 ## Personal goal
