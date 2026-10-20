@@ -33,6 +33,6 @@ Two GitHub Actions workflows handle deployment: one uploads website changes to S
 
 ## Personal goal
 
-- [ ] Define the entire architecture using Terraform, including website hosting, DNS, and HTTPS certificates, to make it fully reproducible.
+- [ ] Define the entire architecture using Terraform, to make it fully reproducible.
 
 Frontend adapted from the Start Bootstrap Resume template. See [LICENSE](LICENSE).
